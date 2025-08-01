@@ -3,7 +3,7 @@
 This repository showcases my **Sakila Movie Rental Analytics Project**, where I used **SQL, Excel, and Power BI** to uncover insights from the DVD rental business.
 
 ## 🎥 Video Walkthrough
-[![Watch the video](https://img.youtube.com/vi/3UEPGSQiabg/0.jpg)](https://youtu.be/3UEPGSQiabg)
+[![Watch the video](Thumbnail.png)](https://youtu.be/3UEPGSQiabg)
 
 Click the thumbnail above to watch the **unlisted video walkthrough** on YouTube.
 
