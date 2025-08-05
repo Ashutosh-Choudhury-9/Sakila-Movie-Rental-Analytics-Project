@@ -5,7 +5,7 @@ This repository showcases my **Sakila Movie Rental Analytics Project**, where I 
 ## 🎥 Video Walkthrough
 [![Watch the video](Thumbnail.png)](https://youtu.be/3UEPGSQiabg)
 
-Click the thumbnail above to watch the **unlisted video walkthrough** on YouTube.
+# Click the thumbnail above to watch the **unlisted video walkthrough** on YouTube.
 
 ## 📊 Project Highlights
 
